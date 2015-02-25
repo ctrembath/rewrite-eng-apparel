@@ -1,0 +1,19 @@
+body {
+	background-color: #EFFFFA;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:14px;
+	color: #00272B;
+
+	width: 920px;
+	margin: 40px auto;
+}
+
+header {
+	background-color: #f8f8f8;
+	width: 200px;
+	margin:10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+	position: fixed;
+	border-bottom: 0.5px solid;
+	border-radius: 5px;
+}
