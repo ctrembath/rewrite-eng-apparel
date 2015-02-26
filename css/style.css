@@ -44,12 +44,26 @@ nav a {
 	font-size: 30px;
 	text-decoration: none;
 	color: black;
+	margin: 0;
 }
 
 nav a:hover{
 	color:#475A77;
 }
+nav#mennav {
+	width: 50%;
+	margin: 0;
+	padding: 0;
+}
+nav#mennav:hover {
+	background-color: green;
+	color: white;
+}
 
+nav#womennav{
+	margin: 0;
+	padding: 0;
+}
 a#mens {
 	text-align: center;
 	margin-left: 14%;
