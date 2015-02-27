@@ -34,43 +34,27 @@ h1 a:hover{
 	background-color: #95D78A;
 }
 
-nav {
-	margin-bottom: 20px;
-	width: 100%;
-}
 
-nav a {
-	display: inline-block;
-	font-size: 30px;
+a {
 	text-decoration: none;
 	color: black;
-	margin: 0;
 }
 
-nav a:hover{
-	color:#475A77;
-}
-nav#mennav {
-	width: 50%;
-	margin: 0;
-	padding: 0;
-}
-nav#mennav:hover {
-	background-color: green;
-	color: white;
-}
-
-nav#womennav{
-	margin: 0;
-	padding: 0;
-}
 a#mens {
-	text-align: center;
-	margin-left: 14%;
+	font-size: 30px;
+	float: right;
+	padding-right: 10%;
+	
+}
+a#womens{
+	float: left;
+	padding-left: 10%;
+	font-size: 30px;
 }
 
-a#womens{
-	text-align: center;
-	margin-left: 65%;
+img {
+	height:500px;
+	margin-left: 10%;
 }
+
 
